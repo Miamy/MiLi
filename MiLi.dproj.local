@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.689,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\Mili.USettings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\Mili.USettingsForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\Mili.UMultimedia.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.152,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,E:\indy\MiLi\MiLi.dproj=C:\Users\Vadim\Documents\RAD Studio\Projects\Project8.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,E:\indy\MiLi\Unit1.pas=E:\indy\MiLi\MiLi.UStrings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,D:\Programs\mili\MiLi\MiLi.UContacts.pas=D:\Programs\mili\MiLi\MiLi.UClasses.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,E:\indy\MiLi\MiLi.UContact.dfm=E:\indy\MiLi\OKCANCL2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.802,=E:\indy\MiLi\OKCANCL2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\MiLi.UCommon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\MiLi.UClientsDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\Mili.UConsts.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.813,D:\Programs\mili\MiLi\Unit1.pas=D:\Programs\mili\MiLi\Mili.UFunctions.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.326,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,E:\indy\MiLi\UClasses.pas=E:\indy\MiLi\MiLi.UClasses.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,D:\Programs\mili\MiLi\Unit2.dfm=D:\Programs\mili\MiLi\MiLi.UServersDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,D:\Programs\mili\MiLi\MiLi.UContact.dfm=D:\Programs\mili\MiLi\MiLi.UContactForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,=C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,D:\Programs\mili\MiLi\MiLi.UContact.pas=D:\Programs\mili\MiLi\MiLi.UContactForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,D:\Programs\mili\MiLi\Mili.UHistory.pas=D:\Programs\mili\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,E:\indy\MiLi\UMain.pas=E:\indy\MiLi\MiLi.UMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,D:\Programs\mili\MiLi\MiLi.UTypes.pas=D:\Programs\mili\MiLi\MiLi.UCommon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,E:\indy\MiLi\UMain.pas=C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,D:\Programs\mili\MiLi\Unit1.dfm=D:\Programs\mili\MiLi\MiLi.UClientsDM.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,D:\Programs\mili\MiLi\Unit1.dfm=D:\Programs\mili\MiLi\Mili.USettingsForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=E:\indy\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,E:\indy\MiLi\Unit1.pas=E:\indy\MiLi\UClasses.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=E:\indy\MiLi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.459,D:\Programs\mili\MiLi\Unit2.pas=D:\Programs\mili\MiLi\MiLi.UServersDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,=D:\Programs\mili\MiLi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,E:\indy\MiLi\UMain.dfm=C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.500,E:\indy\MiLi\MiLi.UContact.pas=E:\indy\MiLi\OKCANCL2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,E:\indy\MiLi\UMain.dfm=E:\indy\MiLi\MiLi.UMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
